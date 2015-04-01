@@ -295,3 +295,9 @@
     height: 16px;
     background: url('../img/list-alt.png') no-repeat;
 }
+.icons__item .png-list-alt-ps {
+    display: inline-block;
+    width: 14px;
+    height: 13px;
+    background: url('../img/list-alt-ps.png') no-repeat;
+}
