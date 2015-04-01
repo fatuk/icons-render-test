@@ -289,34 +289,9 @@
 
 
 /* PNG icon */
-/*.icons__item .png {
-    position: relative;
-}*/
 .icons__item .png-list-alt {
     display: inline-block;
     width: 16px;
     height: 16px;
     background: url('../img/list-alt.png') no-repeat;
-    background-size: 16px 16px;
 }
-/*.icons__item .png:nth-child(1) {
-    width: 10px;
-}
-
-.icons__item .png:nth-child(2) {
-    width: 14px;
-}
-
-.icons__item .png:nth-child(3) {
-    width: 16px;
-}
-
-.icons__item .png:nth-child(4) {
-    width: 25px;
-}
-
-.icons__item .png:nth-child(5) {
-    width: 50px;
-}
-
-*/
